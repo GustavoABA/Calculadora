@@ -1,17 +1,6 @@
 # 🧮 Calculadora Interativa - Desafio de 1 Semana
 
 Este projeto é o resultado de um desafio pessoal de desenvolver uma aplicação completa — desde a concepção da ideia até a programação do Front-end e Back-end — em apenas **uma semana**. A aplicação consiste em uma calculadora funcional com uma interface gráfica moderna e interações dinâmicas.
-
----
-
-## 🚀 O Projeto
-
-A proposta foi criar uma ferramenta utilitária que fosse além do básico, focando em uma experiência de usuário fluida e um código bem estruturado. O desenvolvimento foi dividido em fases intensivas:
-
-1.  **Dia 1-2: Ideação e Design (UI/UX)** - Definição das funcionalidades e criação da interface.
-2.  **Dia 3-4: Desenvolvimento Front-end** - Estruturação visual utilizando ferramentas de design de interface.
-3.  **Dia 5-7: Programação Back-end e Integração** - Implementação da lógica matemática e conexão com a interface gráfica.
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
